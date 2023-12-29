@@ -1,6 +1,6 @@
 # Olá 	:technologist:
 
-Meu nome é Ítalo Mykaio de Oliveira, sou instalador de fibra óptica e desenvolvedor Backend em formação na [@cubosacademy](https://cubos.academy/).
+Meu nome é Ítalo Mykaio de Oliveira, sou instalador de fibra óptica e desenvolvedor Backend.
 
 
 # hardskills:
