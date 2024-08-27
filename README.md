@@ -1,7 +1,5 @@
 # Olá 	🧑‍💻
 
-Meu nome é Ítalo Mykaio de Oliveira, sou agente de telecom e desenvolvedor de Software.
-
 
 # hardskills:
 
